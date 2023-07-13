@@ -20,3 +20,9 @@ $ npm start
 
 Istanbul to Izmir in 15/07/2023
 Istanbul to Ankara in 15/07/2023
+
+## Projeyi çalıştırma
+
+Projenin kaynak kodlarını indirdikten sonra vscode üzerinde açınız. Terminale «npm install» yazarak gerekli dosyaların indirilmesini sağlayınız. 
+Dosyalar indirildikten sonra «npm start» yazarak projeyi başlatabiliriz. Mobil cihazınıza «Expo GO» uygulamasını indiriniz. 
+VsCode üzerindeki terminalde yer alan QR kodu Expo GO uygulamasında okutunuz. Proje açılacaktır.
