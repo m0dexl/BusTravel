@@ -109,7 +109,7 @@ const SeatsScreen = () => {
             item.selected = true;
             item.available = 0;
           } else {
-            Alert.alert("asdas", "max5seat");
+            Alert.alert("Too much seats", "Select max 5 seats");
           }
         }
       }
