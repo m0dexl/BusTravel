@@ -31,8 +31,9 @@ const PaymentScreen = () => {
     <View style={styles.mainContainer}>
       <View style={styles.topContainer}>
         <Text style={styles.ticketInfoText}>
-          {` ${TravelDatas[selectedTravelId - 1].departureName} to 
-          ${TravelDatas[selectedTravelId - 1].destinationName}`}
+          {` ${TravelDatas[selectedTravelId - 1].departureName} to ${
+            TravelDatas[selectedTravelId - 1].destinationName
+          }`}
         </Text>
         <Text style={styles.priceText}>
           {`${selectedTicketNumber} ticket/s -> Price: ${
